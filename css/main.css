@@ -1,1 +1,25 @@
-  
+  footer{
+    background-color: bisque; 
+    text-align: center; 
+    position: fixed; 
+    width: 100%; 
+    left: 0px; 
+    bottom: 0px; 
+    height: 6rem;
+    padding: 1rem;
+  }
+
+  .encabezado{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  h1{
+    color: blue; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .btnregistro{
+    
+  }
