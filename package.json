@@ -1,0 +1,14 @@
+{
+  "name": "-ipc1-proyecto2_202100086",
+  "version": "1.0.0",
+  "description": "Proyecto2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maybeth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
